@@ -1,0 +1,1 @@
+    mongoimport --db arqmusical --collection arqmus --file arqmus.json  --jsonArray 

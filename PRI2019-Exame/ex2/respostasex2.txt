@@ -1,0 +1,21 @@
+1-1624
+
+2-324
+
+3-[
+    {
+        "codigo": "450.10.442",
+        "titulo": "Reconhecimento de títulos profissionais obtidos no estrangeiro",
+        "id": "c450.10.442"
+    },
+    {
+        "codigo": "750.10.001",
+        "titulo": "Seleção e seriação para ingresso no ensino ou formação",
+        "id": "c750.10.001"
+    },
+    {
+        "codigo": "750.20.600",
+        "titulo": "Realização de atividades de ensino ou formação",
+        "id": "c750.20.600"
+    }
+]
